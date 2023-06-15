@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  position: relative;
+  width: 928px;
+  height: 52px;
+  left: 48px;
+  top: 28px;
+  background-color: #1f1f1f;
+}
